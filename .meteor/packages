@@ -25,3 +25,6 @@ ian:accounts-ui-bootstrap-3
 accounts-facebook
 service-configuration
 iron:router
+velocity:core
+velocity:html-reporter
+sanjo:jasmine

@@ -3,6 +3,7 @@ accounts-facebook@1.0.10
 accounts-oauth@1.1.13
 accounts-password@1.1.11
 allow-deny@1.0.5
+amplify@1.0.0
 anti:i18n@0.4.3
 autopublish@1.0.7
 autoupdate@1.2.10
@@ -18,6 +19,7 @@ caching-compiler@1.0.5
 caching-html-compiler@1.0.6
 callback-hook@1.0.9
 check@1.2.3
+coffeescript@1.1.2
 ddp@1.2.5
 ddp-client@1.2.8
 ddp-common@1.2.6
@@ -49,6 +51,7 @@ iron:router@1.0.13
 iron:url@1.0.11
 jquery@1.11.9
 launch-screen@1.0.12
+less@2.6.3
 livedata@1.0.18
 localstorage@1.0.11
 logging@1.0.13
@@ -70,6 +73,9 @@ oauth@1.1.11
 oauth2@1.1.10
 observe-sequence@1.0.12
 ordered-dict@1.0.8
+package-version-parser@3.0.9
+practicalmeteor:chai@1.9.2_3
+practicalmeteor:loglevel@1.1.0_3
 promise@0.7.2
 random@1.0.10
 rate-limit@1.0.5
@@ -78,6 +84,10 @@ reactive-var@1.0.10
 reload@1.1.10
 retry@1.0.8
 routepolicy@1.0.11
+sanjo:jasmine@1.0.1
+sanjo:long-running-child-process@1.1.5
+sanjo:meteor-files-helpers@1.1.0_7
+sanjo:meteor-version@1.0.0
 service-configuration@1.0.10
 session@1.1.6
 sha@1.0.8
@@ -93,5 +103,10 @@ tracker@1.0.14
 ui@1.0.11
 underscore@1.0.9
 url@1.0.10
+velocity:chokidar@1.2.0_1
+velocity:core@0.10.10
+velocity:html-reporter@0.10.1
+velocity:meteor-internals@1.1.0_7
+velocity:reports@1.0.0
 webapp@1.2.9
 webapp-hashing@1.0.9
